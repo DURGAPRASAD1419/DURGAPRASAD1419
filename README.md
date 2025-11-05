@@ -112,12 +112,24 @@ My personal portfolio showcasing projects, internships, and achievements.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DURGAPRASAD1419&show_icons=true&theme=tokyonight" alt="DurgaPrasad's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DURGAPRASAD1419&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DURGAPRASAD1419&theme=tokyonight&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURGAPRASAD1419&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DURGAPRASAD1419&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DURGAPRASAD1419&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURGAPRASAD1419&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DURGAPRASAD1419&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api?username=DURGAPRASAD1419&theme=tokyonight" alt="Achievements" />
 </p>
 
 ---
@@ -133,5 +145,5 @@ My personal portfolio showcasing projects, internships, and achievements.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DURGAPRASAD1419&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DURGAPRASAD1419&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
