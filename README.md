@@ -117,7 +117,6 @@ My personal portfolio showcasing projects, internships, and achievements.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DURGAPRASAD1419&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DURGAPRASAD1419&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
