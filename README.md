@@ -127,9 +127,6 @@ My personal portfolio showcasing projects, internships, and achievements.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DURGAPRASAD1419&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=DURGAPRASAD1419&theme=tokyonight" alt="Achievements" />
-</p>
 
 ---
 
