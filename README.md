@@ -20,7 +20,6 @@
 ---
 
 ## 💡 About Me  
-
 I’m a passionate **Front-End and Full Stack Developer** with a strong foundation in **web technologies**, **Java**, and **version control**.  
 I love turning ideas into interactive, responsive, and scalable web applications while constantly exploring the world of **AI/ML** and data-driven solutions.
 
@@ -58,7 +57,6 @@ I love turning ideas into interactive, responsive, and scalable web applications
 ---
 
 ## 🧩 Internships  
-
 ### 💡 Edunet Foundation – *AI/ML Intern* (May 2025 – June 2025)
 - Built predictive models using supervised and unsupervised ML algorithms.  
 - Worked on data preprocessing, feature engineering, and model evaluation with Python.  
@@ -72,7 +70,6 @@ I love turning ideas into interactive, responsive, and scalable web applications
 ---
 
 ## 🏗️ Projects  
-
 ### 🍽️ Food Ordering System  
 An online food ordering platform for managing menus, placing orders, and processing payments.  
 **Tech Stack:** Django, Python, HTML, CSS, JavaScript, SQLite  
@@ -94,7 +91,6 @@ My personal portfolio showcasing projects, internships, and achievements.
 ---
 
 ## 🏆 Certifications  
-
 - 🧩 Cisco: Programming Essentials in C++  
 - ☕ EDX: Java Programming Fundamentals  
 - 🧰 Coursera: Introduction to Git and GitHub  
@@ -102,7 +98,6 @@ My personal portfolio showcasing projects, internships, and achievements.
 ---
 
 ## 💡 Coding Profiles  
-
 - 🧩 [LeetCode](https://leetcode.com/u/durgaprasad1419/) – 400+ Problems Solved  
 - 💻 [GeeksforGeeks](https://www.geeksforgeeks.org/user/allamdurga211d/) – 70+ Problems Solved  
 - ⚙️ [CodeChef](https://www.codechef.com/users/durgaprasad141) – 250+ Problems Solved  
@@ -112,31 +107,26 @@ My personal portfolio showcasing projects, internships, and achievements.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DURGAPRASAD1419&theme=tokyonight&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DURGAPRASAD1419&theme=tokyonight&margin-w=10&row=1&column=6&v=1" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DURGAPRASAD1419&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DURGAPRASAD1419&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=1" height="165" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURGAPRASAD1419&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DURGAPRASAD1419&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DURGAPRASAD1419&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DURGAPRASAD1419&theme=tokyo-night&v=1" alt="GitHub Activity Graph" />
 </p>
-
 
 ---
 
 ## 📫 Connect With Me  
-
 <p align="center">
   <a href="mailto:allamdurgaprasad669@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/durgaprasadallam/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/DURGAPRASAD1419"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
-
