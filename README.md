@@ -42,9 +42,6 @@ I love turning ideas into interactive, responsive, and scalable web applications
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -106,7 +103,7 @@ My personal portfolio showcasing projects, internships, and achievements.
 
 ## 💡 Coding Profiles  
 
-- 🧩 [LeetCode](https://leetcode.com/u/ftwL4hp2FR/) – 400+ Problems Solved  
+- 🧩 [LeetCode](https://leetcode.com/u/durgaprasad1419/) – 400+ Problems Solved  
 - 💻 [GeeksforGeeks](https://www.geeksforgeeks.org/user/allamdurga211d/) – 70+ Problems Solved  
 - ⚙️ [CodeChef](https://www.codechef.com/users/durgaprasad141) – 250+ Problems Solved  
 
